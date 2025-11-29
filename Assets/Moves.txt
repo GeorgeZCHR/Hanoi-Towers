@@ -1,0 +1,8 @@
+Number of moves : 7
+Ring 1 moved from Tower 0 to Tower 2
+Ring 2 moved from Tower 0 to Tower 1
+Ring 1 moved from Tower 2 to Tower 1
+Ring 3 moved from Tower 0 to Tower 2
+Ring 1 moved from Tower 1 to Tower 0
+Ring 2 moved from Tower 1 to Tower 2
+Ring 1 moved from Tower 0 to Tower 2
